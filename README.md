@@ -1,2 +1,2 @@
 # Exavalu
-Coding Project for Exavalu Traiinh
+Coding Project for Exavalu Training
